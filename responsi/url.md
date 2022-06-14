@@ -1,0 +1,1 @@
+https://www.bps.go.id/indikator/indikator/download_json/0000/api_pub/WVRlTTcySlZDa3lUcFp6czNwbHl4QT09/da_03/1

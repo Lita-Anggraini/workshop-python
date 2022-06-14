@@ -1,0 +1,477 @@
+{
+    "judul_tabel": "Penduduk, Laju Pertumbuhan Penduduk, Distribusi Persentase Penduduk, Kepadatan Penduduk, dan Rasio Jenis Kelamin Penduduk Menurut Provinsi, 2021",
+    "judul_tabel_en": "Population, Population Growth Rate, Percentage Distribution of Population, Population Density, and Sex Ratio by Province, 2021",
+    "lingkup": "Provinsi&lt;br&gt;&lt;i&gt;Province&lt;/i&gt;",
+    "tahun_data": 2021,
+    "wilayah": "Indonesia",
+    "penanggung_jawab": "Subdirektorat Statistik Demografi",
+    "id_subject": "aVNwM3JTd21SUFZYTUpLOFJXSEphdz09",
+    "bab": "Penduduk dan Ketenagakerjaan",
+    "bab_en": "Population and Employment",
+    "subject": "Penduduk",
+    "subject_en": "Population",
+    "mms_id": 519,
+    "mms_subject": "Kependudukan Dan Migrasi",
+    "keterangan_data": {
+        "...": "Data tidak tersedia",
+        "–": "Tidak ada atau nol",
+        "0": "Data dapat diabaikan",
+        "NA": "Data tidak dapat ditampilkan",
+        "e": "Angka estimasi",
+        "r": "Angka diperbaiki",
+        "x": "Angka sementara",
+        "xx": "Angka sangat sementara",
+        "xxx": "Angka sangat sangat sementara"
+    },
+    "kolom": {
+        "nzudy5elv7": {
+            "nama_variabel": "Jumlah Penduduk",
+            "nama_variabel_en": "Population",
+            "tipe": "Numerik",
+            "angka_desimal_dibelakang_koma": 1,
+            "unit_multiplier": 3,
+            "unit_multiplier_desc": "Ribu",
+            "unit_multiplier_desc_en": "Thousands",
+            "metadata_indikator": "Jumlah Penduduk",
+            "metadata_konsep_definisi": "&lt;p&gt;Banyaknya penduduk yang bertempat tinggal tetap, dicacah dimana mereka biasanya bertempat tinggal. \r&lt;br&gt;Penduduk yang sedang bepergian 6 (enam) bulan atau lebih, atau yang telah berada pada suatu tempat tinggal selama 6 (enam) bulan atau lebih, dicacah dimana mereka tinggal pada saat pencacahan. &lt;/p&gt;",
+            "metadata_kegunaan": "&lt;p&gt;- Memperkirakan berbagai parameter kependudukan sampai wilayah administrasi tertentu.\r&lt;br&gt;- Mengumpulkan informasi kependudukan yang dapat digunakan/dimanfaatkan untuk penyusunan basis data kependudukan.\r&lt;br&gt;&lt;/p&gt;",
+            "metadata_keterangan_tambahan": null,
+            "metadata_interpretasi": null,
+            "metadata_rumusan": [
+                "https://sirusa.bps.go.id/webadmin/indikator/Jumlah_Penduduk.jpg"
+            ],
+            "metadata_rumus_html": null,
+            "metadata_dihasilkan_oleh": [],
+            "tanggal_cut_off": null
+        },
+        "d8efayjxld": {
+            "nama_variabel": "Laju Pertumbuhan Penduduk per Tahun",
+            "nama_variabel_en": "Population Growth Rate",
+            "tipe": "Numerik",
+            "angka_desimal_dibelakang_koma": 2,
+            "metadata_indikator": "Laju Pertumbuhan Penduduk",
+            "metadata_konsep_definisi": "&lt;p&gt;Angka  yang  menunjukan  tingkat pertambahan  penduduk  pertahun dalam jangka waktu tertentu. Angka ini dinyatakan  sebagai  persentase  dari penduduk dasar. &lt;br&gt;Laju  pertumbuhan  penduduk  dapat dihitung  menggunakan tiga  metode,  yaitu aritmatik,  geometrik,  dan  eksponesial. Metode  yang  paling  sering  digunakan  di BPS adalah metode geometrik. &lt;/p&gt;",
+            "metadata_kegunaan": "&lt;p&gt;Untuk  mengetahui  perubahan jumlah penduduk antar dua periode waktu. &lt;/p&gt;",
+            "metadata_keterangan_tambahan": null,
+            "metadata_interpretasi": "&lt;p&gt;a. LPP  &gt;  0  berarti  terjadi  penambahanpenduduk.pada  tahun  t dibandingkan  dengan  tahun sebelumnya. &lt;br&gt;b. LPP  &#x3D;  0  berarti  tidak  terjadiperubahan  jumlah  penduduk  padatahun  t  dibandingkan  dengan  tahun sebelumnya. &lt;br&gt;c. Pt,0 &lt; 100 berarti terjadi pengurangan jumlah  penduduk  pada  tahun  t dibandingkan  dengan tahun sebelumnya. &lt;br&gt;&lt;/p&gt;",
+            "metadata_rumusan": [
+                "https://sirusa.bps.go.id/webadmin/indikator/laju pertumbuhan penduduk.jpg"
+            ],
+            "metadata_rumus_html": null,
+            "metadata_dihasilkan_oleh": [],
+            "tanggal_cut_off": null
+        },
+        "efg2cjrdn2": {
+            "nama_variabel": "Persentase Penduduk",
+            "nama_variabel_en": "Percentage of Total Population",
+            "tipe": "Numerik",
+            "angka_desimal_dibelakang_koma": 2,
+            "metadata_indikator": null,
+            "metadata_konsep_definisi": null,
+            "metadata_kegunaan": null,
+            "metadata_keterangan_tambahan": null,
+            "metadata_interpretasi": null,
+            "metadata_rumusan": [],
+            "metadata_rumus_html": null,
+            "metadata_dihasilkan_oleh": [],
+            "tanggal_cut_off": null
+        },
+        "xauol4vjpj": {
+            "nama_variabel": "Kepadatan Penduduk per km persegi",
+            "nama_variabel_en": "Population Density per sq.km",
+            "tipe": "Numerik",
+            "angka_desimal_dibelakang_koma": 0,
+            "satuan": "km<sup>2</sup>",
+            "satuan_en": "km<sup>2</sup>",
+            "metadata_indikator": "Kepadatan Penduduk",
+            "metadata_konsep_definisi": "&lt;p&gt;Kepadatan  penduduk  dibagi  menjadi  3 jenis: &lt;br&gt;a. Kepadatan  Penduduk  Kasar  (Crude Population  Density),  yaitu menunjukkan  banyaknya  jumlah  penduduk  untuk  setiap  kilometer persegi luas wilayah. &lt;br&gt;b.Kepadatan  Fisiologis  (Physiological Density),  yang  menyatakan banyaknya  penduduk  untuk  setiap kilometer  persegi  wilayah  lahan yang ditanami (cultivable land). &lt;br&gt;c. Kepadatan  Agraris  (Agriculture Density),  menunjukkan  banyaknya penduduk  petani  untuk  setiap kilometer  persegi  wilayah  cultivable land.  Ukuran  ini  menggambarkan intensitas  pertanian  dari  petani terhadap  lahan  yang  mencerminkan efisiensi  teknologi  pertanian  dan intensitas tenaga kerja pertanian. &lt;br&gt;&lt;br&gt;Kepadatan  penduduk  kasar  merupakan ukuran  persebaran  penduduk  yang umum  digunakan,  karena  selain  data dan cara  penghitungannya  sederhana,  ukuran ini  sudah  distandarisasi  dengan  luas wilayah. &lt;/p&gt;",
+            "metadata_kegunaan": "&lt;p&gt;a.Untuk  mengetahui konsentrasi penduduk di suatu wilayah. &lt;br&gt;b.Digunakan  sebagai  acuan  dalam rangka  mewujudkan  pemerataan dan  persebaran  penduduk  (program transmigrasi). &lt;br&gt;&lt;/p&gt;",
+            "metadata_keterangan_tambahan": null,
+            "metadata_interpretasi": "&lt;p&gt;Angka  kepadatan  penduduk  menunjukan rata-rata  jumlah  penduduk  tiap  1 kilometer  persegi.  Semakin  besar  angka kepadatan  penduduk  menunjukan  bahwa semakin  padat  penduduk  yang  mendiami wilayah  tersebut.  Misalnya  kepadatan penduduk  Indonesia  tahun  2009  sebesar 124 artinya bahwa secara  rata-rata tiap  1 kilometer  persegi  wilayah  di  Indonesia didiami oleh 124 penduduk&lt;/p&gt;",
+            "metadata_rumusan": [
+                "https://sirusa.bps.go.id/webadmin/indikator/Kepadatan penduduk.jpg"
+            ],
+            "metadata_rumus_html": null,
+            "metadata_dihasilkan_oleh": [],
+            "tanggal_cut_off": null
+        },
+        "ztxhjlhyqd": {
+            "nama_variabel": "Rasio Jenis Kelamin Penduduk",
+            "nama_variabel_en": "Population Sex Ratio",
+            "tipe": "Numerik",
+            "angka_desimal_dibelakang_koma": 1,
+            "metadata_indikator": "Rasio Jenis Kelamin",
+            "metadata_konsep_definisi": "&lt;p&gt;Rasio  jenis  kelamin  adalah  perbandingan antara  jumlah  penduduk  pria  dan  jumlah penduduk  wanita  pada  suatu  daerah  dan pada  waktu  tertentu,  yang  biasanya dinyatakan  dalam  banyaknya  penduduk pria per 100 wanita. &lt;/p&gt;",
+            "metadata_kegunaan": "&lt;p&gt;Data  mengenai  rasio  jenis  kelamin berguna  untuk  pengembangan perencanaan  pembangunan  yang berwawasan  gender,  terutama  yang berkaitan  dengan  perimbangan pembangunan  laki-laki  dan  perempuan secara  adil.  Misalnya,  karena  adat  dan kebiasaan  jaman  dulu  yang  lebih mengutamakan  pendidikan  laki-laki dibanding  perempuan,  maka pengembangan  pendidikan  berwawasan gender  harus  memperhitungkan  kedua jenis  kelamin  dengan mengetahui  berapa banyaknya  laki-laki  dan  perempuan dalam  umur  yang  sama.  Informasi tentang  rasio  jenis  kelamin  juga  penting diketahui  oleh  para  politisi,  terutama untuk  meningkatkan  keterwakilan perempuan dalam parlemen.&lt;/p&gt;",
+            "metadata_keterangan_tambahan": null,
+            "metadata_interpretasi": "&lt;p&gt;a. SR  &gt;  100  berarti  jumlah  penduduk laki-laki  lebih  banyak  dibandingkan dengan  jumlah  penduduk perempuan. &lt;br&gt;b. SR  &#x3D;  100  berarti  jumlah  penduduk laki-laki  sama  dengan  jumlah penduduk perempuan. &lt;br&gt;c. SR  &lt;  100  berarti  jumlah  penduduk perempuan  lebih  banyak dibandingkan  dengan  jumlah penduduk laki-laki. &lt;/p&gt;",
+            "metadata_rumusan": [
+                "https://sirusa.bps.go.id/webadmin/indikator/rasio jenis kelamin.jpg"
+            ],
+            "metadata_rumus_html": null,
+            "metadata_dihasilkan_oleh": [],
+            "tanggal_cut_off": null
+        }
+    },
+    "data": [
+        {
+            "label": "Aceh",
+            "satuan": null,
+            "kode_wilayah": 1100000,
+            "nzudy5elv7": "5 333,7",
+            "d8efayjxld": "1,49",
+            "efg2cjrdn2": "1,96",
+            "xauol4vjpj": "92",
+            "ztxhjlhyqd": "100,8"
+        },
+        {
+            "label": "Sumatera Utara",
+            "satuan": null,
+            "kode_wilayah": 1200000,
+            "nzudy5elv7": "14 936,2",
+            "d8efayjxld": "1,23",
+            "efg2cjrdn2": "5,48",
+            "xauol4vjpj": "205",
+            "ztxhjlhyqd": "100,7"
+        },
+        {
+            "label": "Sumatera Barat",
+            "satuan": null,
+            "kode_wilayah": 1300000,
+            "nzudy5elv7": "5 580,2",
+            "d8efayjxld": "1,10",
+            "efg2cjrdn2": "2,05",
+            "xauol4vjpj": "133",
+            "ztxhjlhyqd": "101,5"
+        },
+        {
+            "label": "Riau",
+            "satuan": null,
+            "kode_wilayah": 1400000,
+            "nzudy5elv7": "6 493,6",
+            "d8efayjxld": "2,08",
+            "efg2cjrdn2": "2,38",
+            "xauol4vjpj": "75",
+            "ztxhjlhyqd": "104,9"
+        },
+        {
+            "label": "Jambi",
+            "satuan": null,
+            "kode_wilayah": 1500000,
+            "nzudy5elv7": "3 585,1",
+            "d8efayjxld": "1,39",
+            "efg2cjrdn2": "1,31",
+            "xauol4vjpj": "72",
+            "ztxhjlhyqd": "104,0"
+        },
+        {
+            "label": "Sumatera Selatan",
+            "satuan": null,
+            "kode_wilayah": 1600000,
+            "nzudy5elv7": "8 550,9",
+            "d8efayjxld": "1,32",
+            "efg2cjrdn2": "3,14",
+            "xauol4vjpj": "93",
+            "ztxhjlhyqd": "104,0"
+        },
+        {
+            "label": "Bengkulu",
+            "satuan": null,
+            "kode_wilayah": 1700000,
+            "nzudy5elv7": "2 032,9",
+            "d8efayjxld": "1,48",
+            "efg2cjrdn2": "0,75",
+            "xauol4vjpj": "102",
+            "ztxhjlhyqd": "104,7"
+        },
+        {
+            "label": "Lampung",
+            "satuan": null,
+            "kode_wilayah": 1800000,
+            "nzudy5elv7": "9 081,8",
+            "d8efayjxld": "1,10",
+            "efg2cjrdn2": "3,33",
+            "xauol4vjpj": "262",
+            "ztxhjlhyqd": "105,0"
+        },
+        {
+            "label": "Kepulauan Bangka Belitung",
+            "satuan": null,
+            "kode_wilayah": 1900000,
+            "nzudy5elv7": "1 473,2",
+            "d8efayjxld": "1,60",
+            "efg2cjrdn2": "0,54",
+            "xauol4vjpj": "90",
+            "ztxhjlhyqd": "105,9"
+        },
+        {
+            "label": "Kepulauan Riau",
+            "satuan": null,
+            "kode_wilayah": 2100000,
+            "nzudy5elv7": "2 118,2",
+            "d8efayjxld": "3,48",
+            "efg2cjrdn2": "0,78",
+            "xauol4vjpj": "258",
+            "ztxhjlhyqd": "104,2"
+        },
+        {
+            "label": "DKI Jakarta",
+            "satuan": null,
+            "kode_wilayah": 3100000,
+            "nzudy5elv7": "10 609,7",
+            "d8efayjxld": "0,60",
+            "efg2cjrdn2": "3,89",
+            "xauol4vjpj": "15 978",
+            "ztxhjlhyqd": "101,7"
+        },
+        {
+            "label": "Jawa Barat",
+            "satuan": null,
+            "kode_wilayah": 3200000,
+            "nzudy5elv7": "48 782,4",
+            "d8efayjxld": "1,41",
+            "efg2cjrdn2": "17,89",
+            "xauol4vjpj": "1 379",
+            "ztxhjlhyqd": "103,1"
+        },
+        {
+            "label": "Jawa Tengah",
+            "satuan": null,
+            "kode_wilayah": 3300000,
+            "nzudy5elv7": "36 742,5",
+            "d8efayjxld": "0,83",
+            "efg2cjrdn2": "13,47",
+            "xauol4vjpj": "1 120",
+            "ztxhjlhyqd": "101,1"
+        },
+        {
+            "label": "DI Yogyakarta",
+            "satuan": null,
+            "kode_wilayah": 3400000,
+            "nzudy5elv7": "3 712,9",
+            "d8efayjxld": "1,61",
+            "efg2cjrdn2": "1,36",
+            "xauol4vjpj": "1 185",
+            "ztxhjlhyqd": "98,1"
+        },
+        {
+            "label": "Jawa Timur",
+            "satuan": null,
+            "kode_wilayah": 3500000,
+            "nzudy5elv7": "40 878,8",
+            "d8efayjxld": "0,70",
+            "efg2cjrdn2": "14,99",
+            "xauol4vjpj": "855",
+            "ztxhjlhyqd": "99,6"
+        },
+        {
+            "label": "Banten",
+            "satuan": null,
+            "kode_wilayah": 3600000,
+            "nzudy5elv7": "12 061,5",
+            "d8efayjxld": "1,76",
+            "efg2cjrdn2": "4,42",
+            "xauol4vjpj": "1 248",
+            "ztxhjlhyqd": "103,9"
+        },
+        {
+            "label": "Bali",
+            "satuan": null,
+            "kode_wilayah": 5100000,
+            "nzudy5elv7": "4 362,7",
+            "d8efayjxld": "1,40",
+            "efg2cjrdn2": "1,60",
+            "xauol4vjpj": "755",
+            "ztxhjlhyqd": "101,1"
+        },
+        {
+            "label": "Nusa Tenggara Barat",
+            "satuan": null,
+            "kode_wilayah": 5200000,
+            "nzudy5elv7": "5 390,0",
+            "d8efayjxld": "1,76",
+            "efg2cjrdn2": "1,98",
+            "xauol4vjpj": "290",
+            "ztxhjlhyqd": "100,0"
+        },
+        {
+            "label": "Nusa Tenggara Timur",
+            "satuan": null,
+            "kode_wilayah": 5300000,
+            "nzudy5elv7": "5 387,7",
+            "d8efayjxld": "1,56",
+            "efg2cjrdn2": "1,98",
+            "xauol4vjpj": "111",
+            "ztxhjlhyqd": "100,0"
+        },
+        {
+            "label": "Kalimantan Barat",
+            "satuan": null,
+            "kode_wilayah": 6100000,
+            "nzudy5elv7": "5 470,8",
+            "d8efayjxld": "1,39",
+            "efg2cjrdn2": "2,01",
+            "xauol4vjpj": "37",
+            "ztxhjlhyqd": "105,7"
+        },
+        {
+            "label": "Kalimantan Tengah",
+            "satuan": null,
+            "kode_wilayah": 6200000,
+            "nzudy5elv7": "2 702,2",
+            "d8efayjxld": "1,61",
+            "efg2cjrdn2": "0,99",
+            "xauol4vjpj": "18",
+            "ztxhjlhyqd": "107,8"
+        },
+        {
+            "label": "Kalimantan Selatan",
+            "satuan": null,
+            "kode_wilayah": 6300000,
+            "nzudy5elv7": "4 122,6",
+            "d8efayjxld": "1,61",
+            "efg2cjrdn2": "1,51",
+            "xauol4vjpj": "106",
+            "ztxhjlhyqd": "102,5"
+        },
+        {
+            "label": "Kalimantan Timur",
+            "satuan": null,
+            "kode_wilayah": 6400000,
+            "nzudy5elv7": "3 808,2",
+            "d8efayjxld": "1,50",
+            "efg2cjrdn2": "1,40",
+            "xauol4vjpj": "30",
+            "ztxhjlhyqd": "108,4"
+        },
+        {
+            "label": "Kalimantan Utara",
+            "satuan": null,
+            "kode_wilayah": 6500000,
+            "nzudy5elv7": "713,6",
+            "d8efayjxld": "2,25",
+            "efg2cjrdn2": "0,26",
+            "xauol4vjpj": "9",
+            "ztxhjlhyqd": "111,6"
+        },
+        {
+            "label": "Sulawesi Utara",
+            "satuan": null,
+            "kode_wilayah": 7100000,
+            "nzudy5elv7": "2 638,6",
+            "d8efayjxld": "0,85",
+            "efg2cjrdn2": "0,97",
+            "xauol4vjpj": "190",
+            "ztxhjlhyqd": "104,7"
+        },
+        {
+            "label": "Sulawesi Tengah",
+            "satuan": null,
+            "kode_wilayah": 7200000,
+            "nzudy5elv7": "3 021,9",
+            "d8efayjxld": "1,62",
+            "efg2cjrdn2": "1,11",
+            "xauol4vjpj": "49",
+            "ztxhjlhyqd": "105,5"
+        },
+        {
+            "label": "Sulawesi Selatan",
+            "satuan": null,
+            "kode_wilayah": 7300000,
+            "nzudy5elv7": "9 139,5",
+            "d8efayjxld": "0,97",
+            "efg2cjrdn2": "3,35",
+            "xauol4vjpj": "196",
+            "ztxhjlhyqd": "98,6"
+        },
+        {
+            "label": "Sulawesi Tenggara",
+            "satuan": null,
+            "kode_wilayah": 7400000,
+            "nzudy5elv7": "2 659,2",
+            "d8efayjxld": "1,75",
+            "efg2cjrdn2": "0,98",
+            "xauol4vjpj": "70",
+            "ztxhjlhyqd": "102,6"
+        },
+        {
+            "label": "Gorontalo",
+            "satuan": null,
+            "kode_wilayah": 7500000,
+            "nzudy5elv7": "1 181,0",
+            "d8efayjxld": "1,06",
+            "efg2cjrdn2": "0,43",
+            "xauol4vjpj": "105",
+            "ztxhjlhyqd": "101,8"
+        },
+        {
+            "label": "Sulawesi Barat",
+            "satuan": null,
+            "kode_wilayah": 7600000,
+            "nzudy5elv7": "1 436,8",
+            "d8efayjxld": "1,66",
+            "efg2cjrdn2": "0,53",
+            "xauol4vjpj": "86",
+            "ztxhjlhyqd": "103,0"
+        },
+        {
+            "label": "Maluku",
+            "satuan": null,
+            "kode_wilayah": 8100000,
+            "nzudy5elv7": "1 862,6",
+            "d8efayjxld": "0,99",
+            "efg2cjrdn2": "0,68",
+            "xauol4vjpj": "40",
+            "ztxhjlhyqd": "102,6"
+        },
+        {
+            "label": "Maluku Utara",
+            "satuan": null,
+            "kode_wilayah": 8200000,
+            "nzudy5elv7": "1 299,2",
+            "d8efayjxld": "1,69",
+            "efg2cjrdn2": "0,48",
+            "xauol4vjpj": "41",
+            "ztxhjlhyqd": "105,0"
+        },
+        {
+            "label": "Papua Barat",
+            "satuan": null,
+            "kode_wilayah": 9100000,
+            "nzudy5elv7": "1 156,8",
+            "d8efayjxld": "2,69",
+            "efg2cjrdn2": "0,42",
+            "xauol4vjpj": "11",
+            "ztxhjlhyqd": "111,2"
+        },
+        {
+            "label": "Papua",
+            "satuan": null,
+            "kode_wilayah": 9400000,
+            "nzudy5elv7": "4 355,4",
+            "d8efayjxld": "1,61",
+            "efg2cjrdn2": "1,60",
+            "xauol4vjpj": "14",
+            "ztxhjlhyqd": "113,9"
+        },
+        {
+            "label": "Indonesia",
+            "satuan": null,
+            "kode_wilayah": "0000000",
+            "nzudy5elv7": "272 682,5",
+            "d8efayjxld": "1,22",
+            "efg2cjrdn2": "100,00",
+            "xauol4vjpj": "142",
+            "ztxhjlhyqd": "102,3"
+        }
+    ],
+    "catatan": "&lt;p&gt;&lt;sup&gt;(1)&lt;/sup&gt;Hasil Proyeksi Penduduk Interim 2020–2023 (Pertengahan tahun/Juni)/&lt;i&gt;The result of Interim Population Projection 2020–2023 (mid year/June)&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;sup&gt;(2) &lt;/sup&gt;Laju pertumbuhan penduduk dihitung berdasarkan penduduk tahun 2020 (September) dibandingkan dengan penduduk tahun 2021 (Juni)/ &lt;i&gt;The growth rate refers to the change of the population in 2020 (September) to the population in 2021 (June)&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;sup&gt;(3) &lt;/sup&gt;Luas Provinsi Berdasarkan Peraturan Menteri\nDalam Negeri Nomor 72 Tahun 2019 tanggal 25 Oktober 2019/ &lt;i&gt;Area Province Based on Minister of Home Affairs Regulation Number 72/2019, October 25, 2019&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;&lt;/p&gt;",
+    "sumber": "&lt;p&gt;BPS dan Kementerian Dalam Negeri/&lt;i&gt;BPS-Statistics Indonesia and Ministry of Home Affairs&lt;/i&gt;&lt;/p&gt;",
+    "versi": 1,
+    "table_created": "2022-02-01 14:17:36",
+    "table_updated": "2022-02-25 15:13:55",
+    "status": 200,
+    "condition": "OK",
+    "message": "-",
+    "created": "2022-06-14 09:20:37"
+}
